@@ -1,0 +1,13 @@
+// =======================
+// OBJCTIVES
+// =======================
+
+Reach the end of the road and touch the monkey shooting projectiles to win.
+If any of the projectiles hit you before you touch the monkey, you lose.
+
+// =======================
+// CONTROLS
+// =======================
+
+After pressing play, press spacebar to begin the game. 
+Use the up and down arrow keys to move your character.
